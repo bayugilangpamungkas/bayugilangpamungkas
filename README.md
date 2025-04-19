@@ -17,10 +17,10 @@
 ---
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_username)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bayugilangpamungkas)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gilangb256@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@your_username)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@panggil_saja_gilang)
 
 ---
 
